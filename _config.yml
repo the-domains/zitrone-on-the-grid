@@ -1,20 +1,6 @@
-name: ZITRONE on The Grid
-favicon: null
-layout_spectrum: 0.27907
 typography_spectrum: 0.48226
-title: ZITRONE on The Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#949b55'
@@ -26,4 +12,28 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.27907
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Romano Studer
+  email: romano.studer@zitrone.com.au
+  url: www.zitrone.com.au
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd4acc9f-c01c-45a4-8f95-3a8482991f18.png
+name: ZITRONE on The Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: taylor
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a977e594-efc2-48dd-84f9-23e11767473f.png
+title: 'GRAPHICS FOR WEB AND PRINT, FAST AND BRILLIANT'
 purpose: []
