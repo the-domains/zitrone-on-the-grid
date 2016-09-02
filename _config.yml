@@ -33,6 +33,10 @@ cta:
   bucket: null
   version: null
 style: taylor
+navigation:
+  - name: About ZITRONE
+    id: 8c5a3cf4-3065-4470-99fa-35777e91bee3
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a977e594-efc2-48dd-84f9-23e11767473f.png
 title: 'GRAPHICS FOR WEB AND PRINT, FAST AND BRILLIANT'
